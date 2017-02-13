@@ -31,39 +31,39 @@ Modify this document and add your responses to the following prompts below.
 
 *Write a paragraph to describe the utility of your application. This applies equally for games. When would someone use your application? Why would they use your application?*
 
-Replace this with your paragraph(s).
+This is more of a learning experience than anything else. I would like to learn more about crypting and decrypting algorithms, working with interfaces, and Touch ID. People could use this to encrypt their passwords, send secret messages, etc. 
 
 ### What is your inspiration for this project?
 
 *Have you seen another application that you wish to improve on? Has someone asked you to create this?*
 
-Replace this with your paragraph(s).
+There are many password keepers or message encrypters. I personally wanted to create this as a learning experience. But yes, there are many different examples similar to what I plan to create.
 
 ### What is your prior experience in this area?
 
 *Have you written an application like this before? Have you made use of any required APIs before?*
 
-Replace this with your paragraph(s).
+I have worked with interfaces before, but when it comes to implementing Touch ID and encrypting algorithms, no I have not worked on this before.
 
 ### What are skills do you hope to acquire by completing this project?
 
 *For example, you might be writing a networked application for the first time. Or, you may be writing an application that requires a particularly well designed user interface. Describe what you expect to learn by writing this application.*
 
-Replace this with your paragraph(s).
+As I said before, I would like to be able to create interfaces easily, and also to learn about algorithims.
 
 ### What dependencies, if any, will be required to complete your project?
 
 *If you are writing a networked application, you might be using an API like Alamofire to simplify that part of the implementation. If you are writing an application that communicates over Bluetooth, you may be using the Core Bluetooth framework. Please list any expected dependencies for your project.*
 
-Replace this with your paragraph(s).
+None, just X-Code and Cocoa.
 
 ### Rate the personal difficulty level of this project.
 
-Replace this with your paragraph(s).
+I personally think this will be a big challenge, I'm working in an area i haven't worked in before. But I think I will be able to complete it. The time limit of around a month could also prove to be a challenge.
 
 ### Identify what you think your biggest challenge for successfully completing this ISP will be.
 
-Replace this with your paragraph(s).
+Successfully implementing a secure algorith to encrypt and decrypt.
 
 ### Make storyboards to indicate the user interface and/or functionality of your application.
 
