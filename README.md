@@ -63,14 +63,10 @@ I personally think this will be a big challenge, I'm working in an area i haven'
 
 ### Identify what you think your biggest challenge for successfully completing this ISP will be.
 
-Successfully implementing a secure algorith to encrypt and decrypt.
+Successfully implementing a secure algorith to encrypt and decrypt, and to create the saved messages tab.
 
 ### Make storyboards to indicate the user interface and/or functionality of your application.
 
 *In the section below, sketch out a plan for your application. This is where you will spend the majority of your time in completing the ISP proposal. Think through what you hope to create and as needed, adjust your responses to the questions above.*
 
-Replace this with your images and paragraphs.
-
-
-
-
+http://imgur.com/a/WD4FS
